@@ -1,13 +1,15 @@
-import { Button } from './components/Button'
+<<<<<<< HEAD
+import { Home } from './pages/home';
 
 function App() {
   return (
-    <div>
-      <Button />
-      <Button />
-      <Button />
-    </div>
+    <Home />
     
+=======
+function App() {
+  return (
+    <h1>Hello World</h1>
+>>>>>>> parent of 85f4f72... Configurando o ambiente
   );
 }
 
